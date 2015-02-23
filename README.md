@@ -1,0 +1,1 @@
+db.hospital.ensureIndex({location: "2dsphere"})
